@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medora Payment Capture</string>
+    <string name="channel_listening_name">Payment SMS listening</string>
+    <string name="channel_listening_desc">Shows that this pilot device is listening for payment messages.</string>
+    <string name="notification_listening_title">Listening for payment SMS</string>
+    <string name="notification_listening_text">Only payment-relevant messages are captured. Raw SMS is never stored.</string>
+</resources>
